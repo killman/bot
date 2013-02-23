@@ -22,9 +22,9 @@ Usage
 ### Edit the bot.cf file to your convenience
 
 
-### Run bot_chema.py
+### Run bot.py
 
-    python bot_chema.py bot.cf
+    python bot.py bot.cf
 
 Testing
 -------
